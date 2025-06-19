@@ -19,9 +19,9 @@ This project performs **Exploratory Data Analysis (EDA)** on the Red Wine Qualit
 
 ## 🧰 Requirements
 
-Install the required libraries before running the notebook:
+    Install the required libraries before running the notebook:
 
-pip install pandas numpy seaborn matplotlib
+    pip install pandas numpy seaborn matplotlib
 
 
 🚀 How to Run
